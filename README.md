@@ -1,1 +1,2 @@
 # AirportDesign
+This Java-based airport management system efficiently handles airport operations by managing flyers, flights, and terminals. It features detailed classes for passengers and crew, each with specific attributes, and manages flights with comprehensive data like flight numbers and destinations. Terminal operations are tracked through gate types and durations, enhancing terminal management. Designed for clarity and effective monitoring, this system exemplifies the application of object-oriented programming in simulating complex environments like airports.
